@@ -1,4 +1,4 @@
-## Olá, eu sou Caio Nunes, criador de conteúdo de programação e tecnologia!
+## Olá, Eu Sou Caio Nunes, Criador De Conteúdo De Programação e Tecnologia!
 
 <div align="center">
   <a href="https://github.com/caio-nuness">
